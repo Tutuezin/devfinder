@@ -1,0 +1,9 @@
+body {
+  font-family: "IBM Plex Mono", monospace;
+  background-color: #141c2f;
+}
+
+.App {
+  display: flex;
+  margin-top: 25vh;
+}
